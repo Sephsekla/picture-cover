@@ -5,6 +5,7 @@
 
 	picture{
 		visibility: hidden;
+		display: none;
 	}
 
 	@supports(object-fit: cover){
@@ -13,6 +14,7 @@
 
 		picture{
 			visibility: visible;
+			display: block;
 			position: absolute;
 			top: 0;
 			left: 0;
