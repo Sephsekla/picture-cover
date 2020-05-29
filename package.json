@@ -2,6 +2,7 @@
     "name": "@sephsekla/picture-cover",
     "version": "1.0.0",
     "description": "A quick scss mixin for a background-size cover effect using a picture (so WebP support!)",
+    "repository": "https://github.com/Sephsekla/picture-cover.git",
     "main": "mixin.scss",
     "scripts": {
      
