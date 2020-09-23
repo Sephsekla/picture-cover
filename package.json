@@ -6,7 +6,5 @@
  "main": "mixin.scss",
  "scripts": {},
  "author": "Joe Bailey-Roberts (https://jbr.digital)",
- "license": "MIT",
- "dependencies": {},
- "devDependencies": {}
+ "license": "MIT"
 }
