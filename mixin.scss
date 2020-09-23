@@ -3,7 +3,7 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 
-	picture{
+	& > picture{
 		visibility: hidden;
 		display: none;
 	}
@@ -12,7 +12,7 @@
 		background-image: none !important;
 		position: relative;
 
-		picture{
+		& > picture{
 			visibility: visible;
 			display: block;
 			position: absolute;
